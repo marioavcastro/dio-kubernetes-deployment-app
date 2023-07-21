@@ -1,1 +1,1 @@
-## Projeto Deployment de um aplicativo para o cluster Kubernetes como parte do bottcamp Dio Cloud DevOps Experience.
+## Projeto Deployment de um aplicativo para o cluster Kubernetes como parte do Bootcamp Dio Cloud DevOps Experience.
